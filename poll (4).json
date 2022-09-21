@@ -1,0 +1,71 @@
+[
+    {
+        "id" : 1,
+        "email": "taras.shevchenko@itea.ua",
+        "lang_option": "C++",
+        "perc_option": 20
+    },
+
+    {
+        "id" : 2,
+        "email": "ivan.franko@itea.ua",
+        "lang_option": "Python",
+        "perc_option": 10
+    },
+
+    {
+        "id" : 3,
+        "email": "volodymyr.zelenskyy@itea.ua",
+        "lang_option": "Ukrainian",
+        "perc_option": 100
+    },
+
+    {
+        "id" : 4,
+        "email": "olexiy.durnev@itea.ua",
+        "lang_option": "Bozhe, yake languange",
+        "perc_option": 50
+    },
+
+    {
+        "id" : 5,
+        "email": "mykhailo.kotsiubynsky@itea.ua",
+        "lang_option": "Java",
+        "perc_option": 20
+    },
+
+    {
+        "id" : 6,
+        "email": "lesya.ukrainka@itea.ua",
+        "lang_option": "Kotlin",
+        "perc_option": 5
+    },
+
+    {
+        "id" : 7,
+        "email": "vitaliy.kim@itea.ua",
+        "lang_option": "Dobrogo vechora language",
+        "perc_option": 80
+    },
+
+    {
+        "id" : 8,
+        "email": "mariia.zankovetska@itea.ua",
+        "lang_option": "C++",
+        "perc_option": 30
+    },
+
+    {
+        "id" : 9,
+        "email": "vitaliy.gordienko@itea.ua",
+        "lang_option": "Ukrainian",
+        "perc_option": 20
+    },
+
+    {
+        "id" : 10,
+        "email": "roman.bebekh@itea.ua",
+        "lang_option": "Soccer language",
+        "perc_option": 65
+    }
+]
